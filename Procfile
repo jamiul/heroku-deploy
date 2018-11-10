@@ -1,1 +1,1 @@
-web: gunicorn quotes_project.wsgi --log-file -
+web: gunicorn startbootstrap_proj.wsgi --log-file -
